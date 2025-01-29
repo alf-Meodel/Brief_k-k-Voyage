@@ -11,7 +11,7 @@
 
 # Navigation
 
-- [regles de gestion](./doc/regles-de-gestion.md)
+- [Regles de gestion](./doc/regles-de-gestion.md)
 
 # Objectif et Consignes
 
